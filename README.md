@@ -5,21 +5,21 @@ How nomads plan to unite and help the entire crypto market
 Introduction
 Cryptocurrency mining is the competitive process that verifies and adds new transactions to the blockchain for a cryptocurrency that uses the proof-of-work (PoW) method. The miner that is selected is rewarded with some amount of the currency and/or transaction fees. Currently, there is a stigma that cryptocurrency mining is harmful to the environment due to its high energy requirement and powerful computers needed to process transactions.
 
-Luna Miners is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and shares the profits generated with Luna Miner’s NFT holders all managed by smart contracts. All mining profits will be sent to a multi-chain wallet where they will be converted to various cryptos depending on the block chain and preference of our holders. From this wallet, the funds will be distributed to the Luna Miner’s treasury wallet. The treasury will hold 10% of monthly profits to minimize environmental footprint, expand mining operations, and invest in future projects. All remaining funds will be sent to a community wallet and distributed accordingly to the community vote.
+Nomad Miners is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and shares the profits generated with nomad Miner’s NFT holders all managed by smart contracts. All mining profits will be sent to a multi-chain wallet where they will be converted to various cryptos depending on the block chain and preference of our holders. From this wallet, the funds will be distributed to the Luna Miner’s treasury wallet. The treasury will hold 10% of monthly profits to minimize environmental footprint, expand mining operations, and invest in future projects. All remaining funds will be sent to a community wallet and distributed accordingly to the community vote.
 
 All assets bought by the Luna Miners DAO will be 100% owned by the NFT holders. All rights to any miners purchased by the DAO belong to the NFT holders. If a holder chooses to sell their NFT, they sell their right to vote in the Luna Miner DAO in addition to any other benefits that NFT comes with.
 
 Mission
-Luna Miner’s mission is to develop a fully transparent mining facility that is also environmentally sound. In addition to this, this DAO will bring more liquidity to the ecosystem and provide a new source of passive income for individuals and protocols. This project allows the community to reap the benefits of a crypto mining operation without maintenance, deep knowledge of hardware and blockchain, operating expenses, and overall hassle. Our process in helpful to all of the crypto market. The POW block chains get added security and become more decentralized as we add more miners . The POS block chains receive a new source liquidity helping fight token inflation and providing a source of passive income.  At the same time we can will be helping all of crypto be a more environmentally friendly and sustainable ecosystem where POW and POS block chains live in harmony complimenting the needs of the other.
+Nomad Miner’s mission is to develop a fully transparent mining facility that is also environmentally sound. In addition to this, this DAO will bring more liquidity to the ecosystem and provide a new source of passive income for individuals and protocols. This project allows the community to reap the benefits of a crypto mining operation without maintenance, deep knowledge of hardware and blockchain, operating expenses, and overall hassle. Our process in helpful to all of the crypto market. The POW block chains get added security and become more decentralized as we add more miners . The POS block chains receive a new source liquidity helping fight token inflation and providing a source of passive income.  At the same time we can will be helping all of crypto be a more environmentally friendly and sustainable ecosystem where POW and POS block chains live in harmony complimenting the needs of the other.
 
 How it Works (Voting)
-All voting will take place at the end of each month. We will be integrating Gravi DAO’s technology into our project to ensure all voting is done fairly and securely. This system will ensure all Luna Miner’s polls are conducted fairly.
+All voting will take place at the end of each month. We will be integrating Gravi DAO’s technology into our project to ensure all voting is done fairly and securely. This system will ensure all nomad Miner’s polls are conducted fairly.
 
 For early supporters of the project, we will be launching a separate collection called Miner Cards. These collectors will give the holder 2 votes for each miner card in every DAO poll. Miner Card holders will automatically be whitelisted for the Luna Miners NFT mint. Miner Card holder will also receive 10% of the Luna Miner NFT sales in addition to eligibility to receive special airdrops. 
 ●	Miner Card = 2 DAO votes
-●	Luna Miner NFT = 1 DAO vote
+●	Nomad Miner NFT = 1 DAO vote
 
-* A wallet holds 1x Miner Card and 1x Luna Miner NFT will have a total of three vote in any DAO poll.
+* A wallet holds 1x Miner Card and 1x Nomad Miner NFT will have a total of three vote in any DAO poll.
 
 Payouts
 I’f and when the DAO votes to pay out holders we will be creating smart contracts utilizing multiple dexs to offer out holders Preferred %payouts
@@ -37,12 +37,14 @@ NFT Utility
 ●	Miner Card
 ○	2 votes per Card
 ○	10% of the Luna Miner NFT sale
-○	Access to the Luna Miners DAO
+○	Access to the nomad Miners DAO
 ○	Access to facility stats on our website including amount and type of miners owned, operating expenses, and more
 ○	Airdrops
-○	Auto Whitelist for Luna Miner mint.
+○	Auto Whitelist for nomad Miner mint.
 ○	Ability to write proposals for future operations and ventures
-●	Luna Miner NFT
+
+
+●	Nomad Miner NFT
 ○	1 vote per NFT
 ○	Equal % of any revenue paid out to holders
 ○	Access to Luna Miners DAO
@@ -87,7 +89,9 @@ Grow the treasury big enough to offer nft collateralized loans . That can be pai
 
 
 Long-Term Vision
-Luna Miners is looking to build a sustainable, decentralized ecosystem and mining facility that offsets the energy requirements with green technology. Luna Miners aims to utilize solar power and other green technologies to offset electricity costs and electricity generated from the facility. In addition to this, the heat the miners will also be repurposed for environmentally sound purposes. By minting a Luna Miner NFT or Luna Miner Card, you will be helping decentralize and secure multiple ecosystems, proving mining can be environmentally sound. 
+Nomad Miners is looking to build a sustainable, decentralized ecosystem and mining facility that offsets the energy requirements with green technology. Luna Miners aims to utilize solar power and other green technologies to offset electricity costs and electricity generated from the facility. In addition to this, the heat the miners will also be repurposed for environmentally sound purposes. By minting a Luna Miner NFT or Luna Miner Card, you will be helping decentralize and secure multiple ecosystems, proving mining can be environmentally sound. 
+
+After loosing most of funds in the collapse of terra luna where we were originally building we realized how important diversification is and not being a maxi to any one chain. But rather to bring all chains together helping eachother thrive and getting one step closer to solving the crypto dillema decentralization ,security, and scalability  by working together ingredients as one movement towards a better more decentralized future.
 
 
 
