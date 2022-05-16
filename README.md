@@ -91,7 +91,7 @@ Grow the treasury big enough to offer nft collateralized loans . That can be pai
 Long-Term Vision
 Nomad Miners is looking to build a sustainable, decentralized ecosystem and mining facility that offsets the energy requirements with green technology. Luna Miners aims to utilize solar power and other green technologies to offset electricity costs and electricity generated from the facility. In addition to this, the heat the miners will also be repurposed for environmentally sound purposes. By minting a Luna Miner NFT or Luna Miner Card, you will be helping decentralize and secure multiple ecosystems, proving mining can be environmentally sound. 
 
-After loosing most of funds in the collapse of terra luna where we were originally building we realized how important diversification is and not being a maxi to any one chain. But rather to bring all chains together helping eachother thrive and getting one step closer to solving the crypto dillema decentralization ,security, and scalability  by working together ingredients as one movement towards a better more decentralized future.
+After loosing most of our funds set aside to build our project in the collapse of terra luna, where we were originally building we realized how important diversification is and not being a maxi to any one chain. But rather to bring all chains together helping eachother grow and  thrive while getting one step closer to solving the crypto dillema decentralization ,security, and scalability  by working together as one movement towards a better more decentralized future.
 
 
 
