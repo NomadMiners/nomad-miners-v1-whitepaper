@@ -1,14 +1,16 @@
 # nomad-miners-v1-whitepaper
-How nomads plan to unite and help the entire crypto market
 
+Creating a green sustainable stream of assets for ecosystems and individuals.
+Nfts are more sooo much more then jpegs.
 
 Introduction
 Cryptocurrency mining is the competitive process that verifies and adds new transactions to the blockchain for a cryptocurrency that uses the proof-of-work (PoW) method. The miner that is selected is rewarded with some amount of the currency and/or transaction fees. Currently, there is a stigma that cryptocurrency mining is harmful to the environment due to its high energy requirement and powerful computers needed to process transactions.
 
-Nomad Miners is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and shares the profits generated with nomad Miner’s NFT holders all managed by smart contracts. All mining profits will be sent to a multi-chain wallet where they will be converted to various cryptos depending on the block chain and preference of our holders. From this wallet, the funds will be distributed to the Luna Miner’s treasury wallet. The treasury will hold 10% of monthly profits to minimize environmental footprint, expand mining operations, and invest in future projects. All remaining funds will be sent to a community wallet and distributed accordingly to the community vote.
+Nomad Miners is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and host validator nodes on various ecosystems. The goal is to empower the community with tools that might not be accessible to the average person, while helping ecosystems grow, and aquire more assets.
+
+Mining and validator rewards will be sent to a multi-chain wallet where they will be converted to various cryptos depending on the block chain and preference of our holders. From this wallet, the funds will be distributed to the treasury wallet. The treasury will hold 10% of monthly profits to expand operations, and invest in future projects all funds that can be staked will be to help secure the ecosystem. All remaining funds will be sent to a community wallet and distributed according to a community vote.
 
 All assets bought by the DAO will be 100% owned by the NFT holders. All rights to any miners purchased by the DAO belong to the NFT holders. If a holder chooses to sell their NFT, they sell their right to vote in the Luna Miner DAO in addition to any other benefits that NFT comes with.
-
 Mission
 Nomad Miner’s mission is to help unite multiple blockchains in a way that is beneficial to all ecosystems, protocols, and individuals. Every blockchain has strengths and weaknesses. We use an ecosystems strongest attributes to support other ecosystems that may be need help or assistance in that same area, For example  we can bring more liquidity to the ecosystem and provide a new source of passive income for individuals and protocols, And individuals.This project allows the community to reap the benefits of a crypto mining operation without maintenance, Our process in helpful to all of the crypto market. The POW block chains get added security and become more decentralized and secure . The POS block chains receive a new source liquidity helping fight token inflation and providing a source of passive income.  At the same time we can will be helping all of crypto be a more environmentally friendly and sustainable ecosystem where POW and POS block chains live in harmony complimenting the needs of the other. We will continue to seek new ways to unite ecosystems in unique ways that benefit the future of blockchain technology.
 
@@ -75,6 +77,7 @@ Team
 
 Tech support -Brad Chesney
 Graphics- 
+
 Nfts – Vielette Ardevela 
 
 Roadmap
