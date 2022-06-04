@@ -1,4 +1,4 @@
-# Galatic Miners Club-v1-whitepaper
+# Galatic Mining Club-v1-whitepaper
 
 Creating a green sustainable stream of assets for ecosystems and individuals.
 Nfts are more sooo much more then jpegs.
