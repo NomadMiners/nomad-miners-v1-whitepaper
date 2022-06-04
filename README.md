@@ -1,4 +1,4 @@
-# nomad-miners-v1-whitepaper
+# Galatic Miners Club-v1-whitepaper
 
 Creating a green sustainable stream of assets for ecosystems and individuals.
 Nfts are more sooo much more then jpegs.
@@ -8,7 +8,7 @@ Cryptocurrency mining is the competitive process that verifies and adds new tran
 
 POS or proof of stake is another way of validateing networks. Im this system users stake tokens to to receive yeild. You stake your tokene with a validator node. Validators receive  a portion of the stakeing rewards for running nodes. To befome a profitable validator on some networks can be very expensive. Along with start up cost there is also a lot monthly expenses to run a secure reliable validator node. Some networks also have a minimum stakeing amount. This mean you must be in the top 100 validator acording to amount of tokens staked  (numbers vary on different ecosystems) to actually receive commissions for running your validator. 
 
-Nomad Miners is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and host validator nodes on various ecosystems. The goal is to empower the community with tools that might not be accessible to the average person, while helping ecosystems grow, and aquire more assets.
+G.M.C. is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and host validator nodes on various ecosystems. The goal is to empower the community with tools that might not be accessible to the average person, while helping ecosystems grow, and aquire more assets.
 
 Mining and validator rewards will be sent to a multi-chain wallet where they will be converted to various cryptos depending on the block chain and preference of our holders. From this wallet, the funds will be distributed to the treasury wallet. The treasury will hold 10% of monthly profits to expand operations, and invest in future projects all funds that can be staked will be to help secure the ecosystem. All remaining funds will be sent to a community wallet and distributed according to a community vote.
 
@@ -16,7 +16,7 @@ All assets bought by the DAO will be 100% owned by the NFT holders. All rights t
 Mission
 Nomad Miner’s mission is to help unite multiple blockchains in a way that is beneficial to all ecosystems, protocols, and individuals. Every blockchain has strengths and weaknesses. We use an ecosystems strongest attributes to support other ecosystems that may be need help or assistance in that same area, For example  we can bring more liquidity to the ecosystem and provide a new source of passive income for individuals and protocols, And individuals.This project allows the community to reap the benefits of a crypto mining operation without maintenance, Our process in helpful to all of the crypto market. The POW block chains get added security and become more decentralized and secure . The POS block chains receive a new source liquidity helping fight token inflation and providing a source of passive income.  At the same time we can will be helping all of crypto be a more environmentally friendly and sustainable ecosystem where POW and POS block chains live in harmony complimenting the needs of the other. We will continue to seek new ways to unite ecosystems in unique ways that benefit the future of blockchain technology.
 
-Crypto trilemma- decentralization, security , and ad scaleability. The crypto trilemma is arguably the biggest problem that needs to be solved in order to get blockchain technologies massively adopted. The crypto trilemma ultimately means developers have to sacrifice one area in order to accommodate the othe two areas. This is where why we belive the future of crypto is multi chain. Where ecosystems can use other ecosystems strengths to accommodate their own weaknesses. This would allow ecosystems to focus on perfecting what that individual ecosystem is good at, while other entire ecosystems focus on improving the weaknesses. Nomad miners DAO is focused on bringing ecosystems in new ways that will ultimately be beneficial to individuals, protocols, and ecosystems.
+Crypto trilemma- decentralization, security , and ad scaleability. The crypto trilemma is arguably the biggest problem that needs to be solved in order to get blockchain technologies massively adopted. The crypto trilemma ultimately means developers have to sacrifice one area in order to accommodate the othe two areas. This is where why we belive the future of crypto is multi chain. Where ecosystems can use other ecosystems strengths to accommodate their own weaknesses. This would allow ecosystems to focus on perfecting what that individual ecosystem is good at, while other entire ecosystems focus on improving the weaknesses. The Galatic Mining Club is focused on bringing ecosystems in new ways that will ultimately be beneficial to individuals, protocols, and ecosystems.
 
 How it Works (Voting)
 All voting will take place at the end of each month. We will be integrating Gravi DAO’s technology into our project to ensure all voting is done fairly and securely. This system will ensure all nomad Miner’s polls are conducted fairly.
@@ -96,9 +96,8 @@ Grow the treasury big enough to offer nft collateralized loans . That can be pai
 
 
 Long-Term Vision
-Nomad Miners is looking to build a sustainable, decentralized ecosystem and mining facility that offsets the energy requirements with green technology. Luna Miners aims to utilize solar power and other green technologies to offset electricity costs and electricity generated from the facility. In addition to this, the heat the miners will also be repurposed for environmentally sound purposes. By minting a Luna Miner NFT or Luna Miner Card, you will be helping decentralize and secure multiple ecosystems, proving mining can be environmentally sound. 
-
-After loosing most of our funds set aside to build our project in the collapse of terra luna, where we were originally building we realized how important diversification is and not being a maxi to any one chain. But rather to bring all chains together helping eachother grow and  thrive while getting one step closer to solving the crypto dillema decentralization ,security, and scalability  by working together as one movement towards a better more decentralized future.
+The Galatic Mining Club number one goal is bring extrernal value into ecosystems to help sustain a healthy growing environment in ways that will help the community and ecosystem thrive together.
+ 
 
 
 
