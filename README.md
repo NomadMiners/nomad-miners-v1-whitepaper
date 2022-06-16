@@ -21,14 +21,14 @@ Crypto trilemma- decentralization, security , and ad scaleability. The crypto tr
 How it Works (Voting)
 All voting will take place at the end of each month. Holders will vote on
 
-For early supporters of the project, we will be launching a separate collection called Miner Cards. These collectors will give the holder 2 votes for each miner card in every DAO poll. Miner Card holders will automatically be whitelisted for the Luna Miners NFT mint. Miner Card holder will also receive 10% of the Luna Miner NFT sales in addition to eligibility to receive special airdrops. 
+For early supporters of the project, we will be launching a separate collection called Miner Cards. These collectors will give the holder 2 votes for each miner card in every DAO poll. Miner Card holders will automatically be whitelisted for the Galatic Mining mint. Miner Card holder will also receive 10% of the Luna Miner NFT sales in addition to eligibility to receive special airdrops. 
 ●	Miner Card = 2 DAO votes
-●	Nomad Miner NFT = 1 DAO vote
+●	Galatic Mining NFT = 1 DAO vote
 
-* A wallet holds 1x Miner Card and 1x Nomad Miner NFT will have a total of three vote in any DAO poll.
+* A wallet holds 1x Miner Card and 1x Galatic Mining NFT will have a total of three vote in any DAO poll.
 
 Payouts
-I’f and when the DAO votes to pay out holders we will be creating smart contracts utilizing multiple dexs to offer out holders Preferred %payouts
+I’f and when the DAO votes to pay out holders we will be creating smart contracts utilizing multiple dexs to offer out holders Preferred % payouts
 Ex. If a holder wants there portfolio to consist of 
 25%bitcoin
 25%osmosis 
@@ -46,34 +46,32 @@ NFT Utility
 ○	Access to the nomad Miners DAO
 ○	Access to facility stats on our website including amount and type of miners owned, operating expenses, and more
 ○	Airdrops
-○	Auto Whitelist for nomad Miner mint.
+○	Auto Whitelist for Galatic Mining mint.
 ○	Ability to write proposals for future operations and ventures
 
 
-●	Nomad Miner NFT
+●	Galatic Miner NFT
 ○	1 vote per NFT
 ○	Equal % of any revenue paid out to holders
-○	Access to Luna Miners DAO
+○	Access to Galatic Mining DAO
 ○	Access to facility stats on our website including amount and type of miners owned, operating expenses, and more
-○	Equal % of ownership anything purchased by Luna Miners DAO
+○	Equal % of ownership anything purchased by Galactic Mining club
 ○	Ability to write proposals for future operations and ventures
 
-* Profit distribution model, treasury percentages, and royalties will be permanent and cannot be changed by Luna Miners DAO voting.
+* Profit distribution model, treasury percentages, and royalties will be permanent and cannot be changed by Galactic dao voting.
 
 NFT Sale
-Proceeds from the Miner Card sale will be to used to finance to the project. The funds will be used to purchase Luna Miner’s first miners  to start generating revenue. Remaining funds will be used to develop website, discord, smart contracts, and salaries to further develop the project.
+Proceeds from the Miner Card sale will be to used to finance the project. The funds will be used to purchase miners to start generating revenue. Remaining funds will be used to develop website, discord, smart contracts, and salaries to further develop the project.
 
-Funds from the Luna Miner NFT sale will allocated to the following:
+Funds from the  Galactic Miner NFT sale will allocated to the following:
 ●	60% - Buy high powered crypto miners. These miners will be used to boost the profits the Luna Miners DAO. The profits produced will ensure the Luna Miner DAO is positioned to scale quickly and efficiently on a monthly basis.
 ●	10% - Invested into green technology such as solar power to offset the energy usage produced by the facility.
 ●	10% - Shared with early partners  and to assist projects being built on the  ecosystem .
 ●	5% - Shared to wallets holding a Miner Card.
-●	5% - Shared to Angel Protocol to support a charity of the Luna Miner DAO’s choice.
+●	5% - to help other projects in the ecosystem 
 ●	10%- Project creator(s).
 
 * Project creators will receive a 4% royalty anytime a Luna Miner NFT or Luna Miner Card is sold. This will be dedicated to further expand the project.
-
-Team 
  Founder/lead miner
 -Steven chesney 
 
@@ -89,7 +87,7 @@ Roadmap
 4.	Enable preferred %payouts to holders.
 Grow the treasury big enough to offer nft collateralized loans . That can be paid back with future mining profits.
 
-5.	Spread  nomad miners across multiple blockchains continue out mission
+5.	Create a diverse portfolio of liquidity that will help the ecosystem grow.
 
 
 
