@@ -64,7 +64,7 @@ NFT Sale
 Proceeds from the Miner Card sale will be to used to finance the project. The funds will be used to purchase miners to start generating revenue. Remaining funds will be used to develop website, discord, smart contracts, and salaries to further develop the project.
 
 Funds from the  Galactic Miner NFT sale will allocated to the following:
-●	60% - Buy high powered crypto miners. These miners will be used to boost the profits the Luna Miners DAO. The profits produced will ensure the Luna Miner DAO is positioned to scale quickly and efficiently on a monthly basis.
+●	60% - Buy high powered crypto miners. These miners will be used to boost the profits the Galactic Miner DAO. The profits produced will ensure the DAO is positioned to scale quickly and efficiently on a monthly basis.
 ●	10% - Invested into green technology such as solar power to offset the energy usage produced by the facility.
 ●	10% - Shared with early partners  and to assist projects being built on the  ecosystem .
 ●	5% - Shared to wallets holding a Miner Card.
