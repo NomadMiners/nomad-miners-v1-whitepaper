@@ -10,7 +10,7 @@ POS or proof of stake is another way of validateing networks. Im this system use
 
 G.M.C. is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and host validator nodes on various ecosystems. The goal is to empower the community with tools that might not be accessible to the average person, while helping ecosystems grow, and aquire more assets.
 
-Mining and validator rewards will be sent to a multi-chain wallet where they will be converted to various cryptos depending on the block chain and preference of our holders. From this wallet, the funds will be distributed to the treasury wallet. The treasury will hold 10% of monthly profits to expand operations, and invest in future projects all funds that can be staked will be to help secure the ecosystem. All remaining funds will be sent to a community wallet and distributed according to a community vote.
+Mining and validator rewards will be sent to a multi-chain wallet where they will be converted to various cryptos depending on the block chain and preference of our holders. From this wallet, the funds will be distributed to the treasury wallet. The treasury will hold 10% of monthly profits to expand operations, and invest in future projects.  A set percentage of native tokens that can be staked will be to help secure the ecosystem. All remaining funds will be sent to a community wallet and distributed according to a community vote.
 
 All assets bought by the DAO will be 100% owned by the NFT holders. All rights to any miners purchased by the DAO belong to the NFT holders. If a holder chooses to sell their NFT, they sell their right to vote in the Galatic Mining Club in addition to any other benefits that NFT comes with.
 Mission
