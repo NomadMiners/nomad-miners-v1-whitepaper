@@ -21,7 +21,7 @@ Crypto trilemma- decentralization, security , and ad scaleability. The crypto tr
 How it Works (Voting)
 All voting will take place at the end of each month. Holders will vote on
 
-For early supporters of the project, we will be launching a separate collection called Miner Cards. These collectors will give the holder 2 votes for each miner card in every DAO poll. Miner Card holders will automatically be whitelisted for the Galatic Mining mint. Miner Card holder will also receive 10% of the Luna Miner NFT sales in addition to eligibility to receive special airdrops. 
+For early supporters of the project, we will be launching a separate collection called Miner Cards. These collectors will give the holder 2 votes for each miner card in every DAO poll. Miner Card holders will automatically be whitelisted for the Galatic Mining mint. Miner Card holder will also receive 10% of the Galactic miner NFT sales in addition to eligibility to receive special airdrops. 
 ●	Miner Card = 2 DAO votes
 ●	Galatic Mining NFT = 1 DAO vote
 
