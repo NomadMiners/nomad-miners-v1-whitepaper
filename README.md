@@ -8,7 +8,7 @@ Cryptocurrency mining is the competitive process that verifies and adds new tran
 
 POS or proof of stake is another way of validateing networks. Im this system users stake tokens to to receive yeild. You stake your tokene with a validator node. Validators receive  a portion of the stakeing rewards for running nodes. To befome a profitable validator on some networks can be very expensive. Along with start up cost there is also a lot monthly expenses to run a secure reliable validator node. Some networks also have a minimum stakeing amount. This mean you must be in the top 100 validator acording to amount of tokens staked  (numbers vary on different ecosystems) to actually receive commissions for running your validator. 
 
-G.M.C. is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and host validator nodes on various ecosystems. The goal is to empower the community with tools that might not be accessible to the average person, while helping ecosystems grow, and aquire more assets.
+G.M.C. is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and host validator nodes on various ecosystems. Owning a Galactic Miner Nft will give you access to rewards and airdrops from mulitple ecosystems, and the ability to vote on club proposals. Proposals will be made by a council of trusted nft holders.
 
 Mining and validator rewards will be sent to a multi-chain wallet where they will be converted to various cryptos depending on the block chain and preference of our holders. From this wallet, the funds will be distributed to the treasury wallet. The treasury will hold 10% of monthly profits to expand operations, and invest in future projects.  A set percentage of native tokens that can be staked will be to help secure the ecosystem. All remaining funds will be sent to a community wallet and distributed according to a community vote.
 
@@ -84,7 +84,7 @@ Roadmap
 1.	Relocate the dao to an ecosystem where we begin our mission to unite all blockchains 
 2.	Early supporters nft launch 
 3.	Create smart contracts. Update website to show facility stats with access only to holders.
-4.	Enable preferred %payouts to holders.
+4.	Enable preferred % payouts to holders.
 Grow the treasury big enough to offer nft collateralized loans . That can be paid back with future mining profits.
 
 5.	Create a diverse portfolio of liquidity that will help the ecosystem grow.
