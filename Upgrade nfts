@@ -1,0 +1,80 @@
+pragma solidity ^0.8.0;
+
+// Import the ERC-721 standard
+import "https://github.com/OpenZeppelin/openzeppelin-solidity/contracts/token/ERC721/ERC721.sol";
+
+// The name of the NFT
+string public constant NAME = "Mining Rig NFT";
+
+// The symbol of the NFT
+string public constant SYMBOL = "MINRIG";
+
+// The total number of mining rigs available
+uint256 public totalSupply;
+
+// The balance of the treasury
+uint256 public treasuryBalance;
+
+// The contract for the NFT
+contract MiningRigNFT is ERC721 {
+  // The mapping of token IDs to their owners
+  mapping (uint256 => address) public tokenOwner;
+
+  // The mapping of token IDs to their mining power
+  mapping (uint256 => uint256) public tokenMiningPower;
+
+  // The event that is triggered when a mining rig is bought
+  event MiningRigBought(uint256 tokenId, address buyer);
+
+  // The event that is triggered when a mining rig is upgraded
+  event MiningRigUpgraded(uint256 tokenId, uint256 newMiningPower);
+
+  // The constructor sets the total supply of mining rigs and initializes the treasury
+  constructor() public {
+    totalSupply = 100;
+    treasuryBalance = 100;
+  }
+
+  // The function that allows users to buy a mining rig
+  function buyMiningRig() public payable {
+    // Check that the buyer has enough funds
+    require(msg.value >= 1, "Not enough funds to buy a mining rig");
+
+    // Check that there are mining rigs available
+    require(totalSupply > 0, "No mining rigs available");
+
+    // Decrement the total supply of mining rigs
+    totalSupply--;
+
+    // Add the funds to the treasury
+    treasuryBalance += msg.value;
+
+    // Set the owner of the mining rig to the buyer
+    tokenOwner[totalSupply] = msg.sender;
+
+    // Set the mining power of the mining rig to 1
+    tokenMiningPower[totalSupply] = 1;
+
+    // Emit the MiningRigBought event
+    emit MiningRigBought(totalSupply, msg.sender);
+  }
+
+  // The function that allows users to upgrade their mining rigs
+  function upgradeMiningRig(uint256 tokenId) public payable {
+    // Check that the sender is the owner of the mining rig
+    require(tokenOwner[tokenId] == msg.sender, "Sender is not the owner of the mining rig");
+
+    // Check that the sender has enough funds
+    require(msg.value >= 1, "Not enough funds to upgrade the mining rig");
+
+    // Check that the treasury has enough funds
+    require(treasuryBalance >= msg.value, "Not enough funds in the treasury to upgrade the mining rig");
+
+    // Decrement the treasury balance
+    treasuryBalance -= msg.value;
+
+    // Increment the mining power of the mining rig
+    tokenMiningPower[tokenId]++;
+
+    // Emit the MiningRigUpgraded event
+    emit MiningRig
